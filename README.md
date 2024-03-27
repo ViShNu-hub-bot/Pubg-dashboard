@@ -1,6 +1,7 @@
 # PUBG Dashboard
 
-![Preview](preview.png)
+![Preview](Screenshot%20(140).png)
+![Preview](Screenshot%20(141).png)
 
 This interactive PUBG dashboard provides comprehensive insights into player performance and trends using Power BI. The dataset used for this dashboard was sourced from Kaggle.
 
